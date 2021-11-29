@@ -1,0 +1,4 @@
+#program to find the summation of given numbers
+
+given_numbers = 8+2+3+0+7 
+print(given_numbers)
